@@ -1,0 +1,7 @@
+applications:
+  - name: demo-app
+path: E:\WORKSPACE\Helloworld\target/Helloworld-0.0.1-SNAPSHOT.jar
+routes:
+  - route: demo-manoj-cheerful-gorilla.cfapps.io
+memory: 1G
+instances: 1
